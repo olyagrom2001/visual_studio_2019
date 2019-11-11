@@ -1,0 +1,11 @@
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\79281\Desktop\c#\vs2019\l1\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
