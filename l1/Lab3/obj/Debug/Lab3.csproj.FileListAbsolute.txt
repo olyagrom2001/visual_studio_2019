@@ -1,0 +1,14 @@
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\bin\Debug\Lab3.exe.config
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\bin\Debug\Lab3.exe
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\bin\Debug\Lab3.pdb
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\obj\Debug\Lab3.exe
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab3\obj\Debug\Lab3.exe
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab3\obj\Debug\Lab3.pdb
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab3\bin\Debug\Lab3.exe
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab3\bin\Debug\Lab3.pdb
