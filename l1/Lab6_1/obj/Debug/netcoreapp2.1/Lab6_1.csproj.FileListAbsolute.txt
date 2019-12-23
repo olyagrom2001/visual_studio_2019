@@ -1,0 +1,11 @@
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\bin\Debug\netcoreapp2.1\Lab6_1.deps.json
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\bin\Debug\netcoreapp2.1\Lab6_1.runtimeconfig.json
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\bin\Debug\netcoreapp2.1\Lab6_1.runtimeconfig.dev.json
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\bin\Debug\netcoreapp2.1\Lab6_1.dll
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\bin\Debug\netcoreapp2.1\Lab6_1.pdb
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\obj\Debug\netcoreapp2.1\Lab6_1.csprojAssemblyReference.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\obj\Debug\netcoreapp2.1\Lab6_1.csproj.CoreCompileInputs.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\obj\Debug\netcoreapp2.1\Lab6_1.AssemblyInfoInputs.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\obj\Debug\netcoreapp2.1\Lab6_1.AssemblyInfo.cs
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\obj\Debug\netcoreapp2.1\Lab6_1.dll
+C:\Users\79281\Desktop\c#\vs2019\l1\Lab6_1\obj\Debug\netcoreapp2.1\Lab6_1.pdb
