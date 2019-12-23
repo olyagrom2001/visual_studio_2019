@@ -1,0 +1,10 @@
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\bin\Debug\Lab4.exe.config
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\bin\Debug\Lab4.exe
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\bin\Debug\Lab4.pdb
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\obj\Debug\HW.csprojAssemblyReference.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\obj\Debug\HW.Form1.resources
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\obj\Debug\HW.csproj.GenerateResource.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\obj\Debug\Lab4.exe
+C:\Users\79281\Desktop\c#\vs2019\l1\HW\obj\Debug\Lab4.pdb
